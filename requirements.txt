@@ -1,0 +1,36 @@
+# ==========================================
+# Multi-Agent Research System
+# ==========================================
+
+# LangChain core
+langchain
+langchain-core
+langchain-community
+langchain-openai
+
+# LangGraph - for ReAct agents / multi-agent orchestration
+langgraph
+
+# OpenAI API
+openai
+
+# Tavily web search
+tavily-python
+
+# Web scraping with BeautifulSoup
+beautifulsoup4
+requests
+
+# Environment variables
+python-dotenv
+
+# HTTP / async support
+httpx
+aiohttp
+
+# Data validation / schemas
+pydantic
+pydantic-settings
+
+# Optional: useful utilities
+tenacity
